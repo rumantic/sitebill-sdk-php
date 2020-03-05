@@ -4,7 +4,7 @@ class Sdk
 {
     public static function world()
     {
-        return 'Hello World, Composer!';
+        return 'Hello World, Composer! I can change!';
     }
 }
 
