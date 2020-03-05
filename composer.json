@@ -1,6 +1,8 @@
 {
     "name": "sitebill/sitebill-sdk-php",
     "description": "Sitebill PHP SDK",
+    "license": "MIT",
+    "homepage": "https://www.sitebill.ru/",
     "type": "library",
     "authors": [
         {
