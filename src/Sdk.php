@@ -2,6 +2,9 @@
 namespace Sitebill\SitebillSdkPhp;
 class Sdk
 {
+    /**
+     * @var $session_key
+     */
     private $session_key;
     private $queryUrl;
     private $login;
